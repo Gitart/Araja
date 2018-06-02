@@ -1,0 +1,23 @@
+
+[
+    {"Id":1,  "Name":"Tesla"},
+    {"Id":2,  "Name":"Google"},
+    {"Id":3,  "Name":"Укрзализниця"},
+    {"Id":4,  "Name":"Крембуд"},
+    {"Id":5,  "Name":"Ремонтник"},
+    {"Id":6,  "Name":"Wallmart"},
+    {"Id":7,  "Name":"Sinopec"},
+    {"Id":8,  "Name":"Royal Dutch Shell"},
+    {"Id":9,  "Name":"China National Petroleum Corporation"},
+    {"Id":10, "Name":"ExxonMobil"},
+    {"Id":11, "Name":"State Grid Corporation of China"},
+    {"Id":12, "Name":"Samsung Electronics"},
+    {"Id":13, "Name":"Industrial & Commercial. Bank of China"},
+    {"Id":14, "Name":"Glencore International"},
+    {"Id":15, "Name":"EXOR Group"},
+    {"Id":16, "Name":"AXA"},
+    {"Id":17, "Name":"General Motors"},
+    {"Id":18, "Name":"Exor Group"},
+    {"Id":19, "Name":"ICBC"},
+    {"Id":20, "Name":"McKesson"}
+]
