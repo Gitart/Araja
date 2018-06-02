@@ -1,0 +1,33 @@
+{
+	"Id":                     "%index%",
+	"Name":                   "%name%" ,
+        "Number":                 "%index(1155)%",
+	"Project_id":             "%index(200)%",	
+        "Pm_id":                  "%index(300)%",
+	"Initiator_id":           "%index(5600)%",	
+	"Module_id":              "%index(400)%",
+        "Description":            "Description temp %name%",
+        "Created"    :            "2018-10-02 14:00",
+        "Duedate"    :            "2018-12-12 15:50",
+        "Departament_id":         "%index(15)%",
+        "Priority":               "%index(5)%",
+        "Status_id":              "%index(17)%",
+        "Executor_id":            "%index(215)%",
+        "Type_id":                "%index(2)%",
+        "Comments":               "Комментарий № %index(2)% ",
+        "Resolution":             "Резолюций   № %index(1224)% ",
+        "Customer_number":        "Резолюций   № %index(5224)% ",
+        "Customer_date":          "2018-%index(2)%-01 12:34",
+        "Customer_status":        "Ok",
+        "Accessed_value":         "%randFloat(10,20)%",
+        "Estimated_date":         "2018-07-02",
+        
+	"Float":    "%randFloat(10,20)%",
+	
+	"Surname":  "%surname%",
+	"Fullname": "%fullname%",
+	"Email":    "%email%",
+	"Bool":     "%bool%",
+	"Company":  "C-%name%%surname%"
+}
+
