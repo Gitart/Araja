@@ -4,5 +4,5 @@
   {"text": "Duplicate",        "value": 3},
   {"text": "Incomplete",       "value": 4},
   {"text": "Can\'t reproduce", "value": 5},
-  {"text": "Won\'t do",        "value": 6},
+  {"text": "Won\'t do",        "value": 6}
 ]
