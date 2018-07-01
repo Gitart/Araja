@@ -1,0 +1,7 @@
+[
+    {"icon": "arrow-down ar-icon-trivial",       value: 1, text: "trivial"},
+    {"icon": "angle-double-down ar-icon-minor",  value: 2, text: "minor"},
+    {"icon": "angle-double-up ar-icon-major",    value: 3, text: "major"},
+    {"icon": "arrow-circle-up ar-icon-critical", value: 4, text: "critical"},
+    {"icon": "ban ar-icon-blocker",              value: 5, text: "blocker"} 
+  ]
