@@ -1,8 +1,8 @@
 [
   {"text": "Fixed",            "value": 1},
-  {"text": "Won\'t fix",       "value": 2},
+  {"text": "Wont fix",       "value": 2},
   {"text": "Duplicate",        "value": 3},
   {"text": "Incomplete",       "value": 4},
-  {"text": "Can\'t reproduce", "value": 5},
-  {"text": "Won\'t do",        "value": 6}
+  {"text": "Cant reproduce", "value": 5},
+  {"text": "Wont do",        "value": 6}
 ]
