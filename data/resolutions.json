@@ -1,8 +1,8 @@
 [
-  {"text": "Fixed",            "value": 1},
-  {"text": "Wont fix",       "value": 2},
-  {"text": "Duplicate",        "value": 3},
-  {"text": "Incomplete",       "value": 4},
-  {"text": "Cant reproduce", "value": 5},
-  {"text": "Wont do",        "value": 6}
+  {"text": "Fixed", "value": 1},
+  {"text": "Wont fix", "value": 2},
+  {"text": "Duplicate","value": 3},
+  {"text": "Incomplete","value": 4},
+  {"text": "Cant reproduce","value": 5},
+  {"text": "Wont do","value": 6}
 ]
