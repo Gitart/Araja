@@ -1,0 +1,4 @@
+[
+    {"clr": "muted",  "text": "Нет",  "value": 1},
+    {"clr": "danger", "text": "Да",   "value": 2}
+]
