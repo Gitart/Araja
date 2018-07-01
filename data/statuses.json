@@ -1,6 +1,8 @@
 [
-    {"Id":1,  "Name": "Принято"},
-    {"Id":2,  "Name": "Рассмотрение"},
-    {"Id":3,  "Name": "Разработка"},
-    {"Id":4,  "Name": "Утверждение"}
- ]
+    { "clr":"primary", "text":"Open",           "value": 1},
+    { "clr":"warning", "text":"In progress",    "value": 2},
+    { "clr":"success", "text":"Resolved",       "value": 3},
+    { "clr":"info",    "text":"Reopened",       "value": 4},
+    { "clr":"danger",  "text":"Cancelled",      "value": 5},
+    { "clr":"light",   "text":"Closed",         "value": 6}
+]
