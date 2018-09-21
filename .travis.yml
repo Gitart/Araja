@@ -1,0 +1,4 @@
+language: go
+rvm:
+ - 2.2
+ - jruby
