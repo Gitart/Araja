@@ -42,7 +42,7 @@ func main() {
 //  Module  : 
 //************************************************************
 func test_Json() {
-	data := []byte(`{"foo":"bar"}`)
+	data := []bytes(`{"foo":"bar"}`)
     r := bytes.NewReader(data)
     resp, err := http.Post("http://example.com/upload", "application/json", r)
     
