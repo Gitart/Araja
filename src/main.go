@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"fmt"
 	"os"
-	"byte"
+	"bytes"
 )
 
 var(
